@@ -222,6 +222,8 @@ This project uses the following publicly available resources:
 - TensorFlow and Keras deep learning frameworks
 - ResNet-50 architecture
 - Grad-CAM visualization technique
+##KAGGLE LINK :
+https://www.kaggle.com/code/abikullachi/residual-rebels
 
 ## Author
 
